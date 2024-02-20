@@ -1,3 +1,3 @@
-module github.com/deepMOORE/go-microservices-tools
+module github.com/deepMOORE/tools
 
 go 1.22.0
